@@ -1,5 +1,8 @@
 # DA6401 Assignment 3 — Transformer for German→English NMT
 
+Github Link - https://github.com/ShyamKumarP/da6401_assignment_3.git
+Wandb Link - https://wandb.ai/me22b223-iitm/da6401-a3/reports/DL-Assignment-3-Report--VmlldzoxNjkyOTQ2MQ
+
 Implementation of "Attention Is All You Need" (Vaswani et al., 2017) from scratch using PyTorch.
 
 ---
